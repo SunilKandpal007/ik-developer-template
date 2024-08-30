@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.inspiration {
+    font-family: "Inspiration", cursive;
+}
+
+.footer-heading {
+    color: #4A5568;
+}
+
+.grey-text {
+    color: #718096;
+}
+
+.contact-btn {
+    background: linear-gradient(to right, #6675F7 0%, #57007B 100%) !important;
+    color: #FAFAFA !important;
+}
+
+.nav-link {
+    color: #4A5568 !important;
+    font-family: "Inter", sans-serif !important;
+}
+
+.footer-nav-link {
+    font-family: "Inter", sans-serif;
+    color: #718096;
+}
+
+.cs-heading {
+    color: #2D3748;
+}
+
+.cs-text {
+    color: #4A5568;
+    font-size: 1rem !important;
+}
+
+.cs-link {
+    background-image: linear-gradient(to right, #F76680 0%, #57007B 100%) !important;
+    background-clip: text !important;
+    /* -webkit-background-clip: text; */
+    color: transparent !important;
+}
+
+.gradient-text {
+    text-align: right !important;
+    background-image: linear-gradient(to right, #F76680 0%, #57007B 100%) !important;
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color: transparent !important;
+}
+
+.fa-chevron-right {
+    margin-left: 10px !important;
+    /* background-image: linear-gradient(to right, #F76680 0%, #57007B 100%) !important; */
+    /* background-clip: text !important; */
+    /* -webkit-background-clip: text !important; */
+    color: #57007B !important;
+}
+
+.cs-section1 {
+    background-color: #F1F2FF;
+}
+
+.cs-section2 {
+    background-color: #F0FFF7;
+}
+
+.cs-section3 {
+    background-color: #FFF4F4;
+}
